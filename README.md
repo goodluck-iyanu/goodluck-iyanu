@@ -7,7 +7,7 @@ Hi, I’m Goodluck Iyanu 👋
   <a href="https://goodluckiyanu.com">🌐 Personal Website</a> •
   <a href="https://hoberg.com.ng">🏢 Hoberg Digital</a> •
   <a href="https://maji.hoberg.com.ng">🛍️ Maji Marketplace</a> •
-  <a href="mailto:gerbiecater@gmail.com">📧 Email</a> •
+ 📧 Email: [Hi@goodluckiyanu.com](mailto:Hi@goodluckiyanu.com)
   <a href="https://fiverr.com/goodluckiyanu">💼 Fiverr</a>
 </p>
 
