@@ -1,15 +1,8 @@
 Hi, I’m Goodluck Iyanu 👋
 
-Founder & CEO at Hoberg Digital | Software Developer | Digital Product Builder
-
-I build software, digital products, platforms, and businesses that solve real problems.
-
-I’m a Nigerian technology entrepreneur and Computer Science student at Adeleke University. My work spans full-stack development, AI-powered applications, e-commerce, SaaS, web technologies, mobile applications, and digital growth.
-
-I’m particularly interested in turning ideas into useful products that help businesses grow, make technology more accessible, and create opportunities for people and businesses in Nigeria and beyond.
-
-I build. I experiment. I ship. I keep learning.
-
+<p align="center">
+  Founder & CEO at Hoberg Digital · Full-Stack Developer · Entrepreneur · Digital Product Builder
+</p>
 <p align="center">
   <a href="https://goodluckiyanu.com">🌐 Personal Website</a> •
   <a href="https://hoberg.com.ng">🏢 Hoberg Digital</a> •
@@ -22,42 +15,37 @@ I build. I experiment. I ship. I keep learning.
 
 👨‍💻 About Me
 
-I’m a full-stack developer, entrepreneur, and digital product builder based in Lagos, Nigeria.
+I’m a Nigerian technology entrepreneur, full-stack developer, and final-year Computer Science student at Adeleke University. I build software, digital products, and platforms that solve real-world problems.
 
-I enjoy working across the entire product development process — from identifying a problem and designing a solution to developing, deploying, and improving the final product.
+I’m the founder of Hoberg Digital, where I work on technology, digital products, and business growth. I’m also building Maji, an e-commerce marketplace designed to help businesses establish online storefronts and sell physical and digital products.
 
-My experience and interests include building web applications, integrating payment systems, working with databases, developing AI-powered tools, and creating digital platforms for businesses.
+I enjoy taking ideas from concept to implementation — designing, developing, integrating, deploying, and improving products.
 
-* 🚀 Founder & CEO of Hoberg Digital
-* 🛍️ Building Maji, an e-commerce marketplace for businesses to sell products online
-* 💻 Building web applications, digital platforms, and software products
-* 🤖 Exploring practical applications of artificial intelligence
+* 🚀 Founder & CEO at Hoberg Digital
+* 🛍️ Building Maji Marketplace
+* 🌐 Personal website: goodluckiyanu.com
 * 🎓 Computer Science student at Adeleke University, Nigeria
-* 🌍 Based in Lagos, Nigeria
-* 🤝 Open to meaningful collaborations, freelance projects, partnerships, and product opportunities
-* 🎯 Focused on building useful technology for Nigerian businesses and global users
+* 📍 Based in Lagos, Nigeria
+* 🤖 Interested in AI, software engineering, SaaS, e-commerce, and digital entrepreneurship
+* 🤝 Open to collaborations, freelance projects, partnerships, and meaningful opportunities
 
-My long-term goal is to build products that people and businesses genuinely depend on.
+My mission: Build useful technology that helps businesses grow and solves real problems, starting in Nigeria and reaching beyond.
 
 ⸻
 
 🏢 Hoberg Digital
 
-Hoberg Digital is the technology and digital business I’m building to develop products, platforms, and solutions for businesses and individuals.
-
-Our philosophy is simple:
+Hoberg Digital is the technology and digital business I’m building around software, digital products, platforms, and business growth.
 
 We Build. We Grow. You Win.
 
-Through Hoberg, I’m exploring how software, AI, digital products, and technology-driven services can help businesses operate better and reach more customers.
-
-What I’m building
+Through Hoberg, I’m developing products and exploring ways technology can help businesses operate, sell, and grow online.
 
 * 🌐 Hoberg Digital Agency — digital services and solutions for businesses.
-* 🛍️ Maji Marketplace — an e-commerce platform that helps businesses sell physical and digital products online.
-* 💼 Hoberg Jobs — a job discovery and recruitment-oriented digital platform.
-* 🎓 Hoberg Edu — an education-focused digital product initiative.
-* 🔐 Hoberg ID — a planned identity and authentication layer for the Hoberg product ecosystem.
+* 🛍️ Maji Marketplace — an e-commerce marketplace for physical and digital products.
+* 💼 Hoberg Jobs — a job discovery and recruitment-oriented platform.
+* 🎓 Hoberg Edu — an education-focused digital initiative.
+* 🔐 Hoberg ID — a planned identity and authentication layer for the Hoberg ecosystem.
 
 These products and initiatives are at different stages of development.
 
@@ -67,51 +55,45 @@ These products and initiatives are at different stages of development.
 
 🚀 Featured Projects
 
-Here are some of the projects I’ve worked on and the products I’m building.
-
-Project	Description	Technologies
-Maji Marketplace	An e-commerce marketplace designed to help businesses create online storefronts and sell physical and digital products.	Next.js, TypeScript, Tailwind CSS, Supabase, Paystack
-Clarity	An AI-powered Chrome extension concept for summarizing, explaining, quizzing, and taking notes from web pages.	React.js, Node.js, Claude AI
-File Converter	An all-in-one file conversion project with payment integration.	React.js, Supabase, Paystack
-WardrobeApp	A virtual clothing try-on project using HTML5 Canvas and AI capabilities.	React.js, HTML5 Canvas, Gemini AI
-Hoberg Digital	A digital business focused on software, digital products, technology, and business growth.	Web technologies, software, digital solutions
-Personal Website	My personal website and central hub for my work, projects, professional identity, and entrepreneurial journey.	Web technologies
-
-Some projects are evolving, and the technologies listed reflect their respective development approaches. Explore my repositories for available source code and implementation details.
+Project	Description	Stack
+Maji Marketplace	E-commerce marketplace helping businesses create online storefronts and sell physical and digital products.	Next.js, TypeScript, Tailwind CSS, Supabase, Paystack
+Clarity	AI-powered Chrome extension for summarizing, explaining, quizzing, and taking notes from web pages.	React.js, Node.js, Claude AI
+File Converter	All-in-one file conversion project with payment integration.	React.js, Supabase, Paystack
+WardrobeApp	Virtual clothing try-on project using HTML5 Canvas and AI capabilities.	React.js, HTML5 Canvas, Gemini AI
+Hoberg Digital	Technology and digital business focused on software, digital products, and business growth.	Web technologies, software, digital solutions
+Personal Website	Personal website showcasing my identity, work, projects, and entrepreneurial journey.	Web technologies
 
 ⸻
 
-🛍️ Currently Building: Maji
+🛍️ About Maji Marketplace
 
-Maji is one of my primary product projects.
+Maji is one of my primary product projects, built to make selling online easier for Nigerian businesses.
 
-It aims to make it easier for Nigerian businesses to establish an online presence and sell products without depending entirely on social media messages and manual ordering.
+The platform aims to help businesses move beyond relying entirely on social media messages and manual ordering by providing tools to establish an online storefront.
 
-What Maji focuses on
+Key areas include:
 
-* 🏪 Online storefronts for businesses
-* 📦 Physical and digital products
-* 💳 Online payment integration
+* 🏪 Online storefront creation
+* 📦 Physical and digital product listings
+* 💳 Online payments with Paystack
 * 🚚 Delivery options for eligible orders
 * 🌐 Custom domain capabilities
-* 📱 A mobile-friendly shopping experience
-* 📈 Tools that help businesses establish and grow their online presence
+* 📱 Mobile-friendly shopping experience
+* 📈 Tools for establishing and growing an online business
 
-Website: maji.hoberg.com.ng
+🌐 Explore Maji: maji.hoberg.com.ng
 
 ⸻
 
-🛠️ Technology Stack
-
-These are technologies I work with or explore across my development projects.
+🛠️ Tech Stack
 
 Frontend Development
 
-Backend Development
+Backend Development & Databases
 
-Databases and Infrastructure
+Tools, Deployment & Payments
 
-Payments and AI
+AI & Intelligent Applications
 
 ⸻
 
@@ -122,10 +104,10 @@ Payments and AI
 * Mobile application development
 * SaaS and e-commerce platforms
 * Fintech and payment integrations
-* Digital entrepreneurship
-* Product design and development
+* Digital entrepreneurship and startups
+* Software architecture and product development
 * Developer tools and automation
-* Search visibility and digital growth
+* Digital growth and search visibility
 * Building technology businesses in Africa
 
 ⸻
@@ -133,28 +115,26 @@ Payments and AI
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goodluck-iyanu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Goodluck Iyanu's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodluck-iyanu&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goodluck-iyanu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Goodluck Iyanu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodluck-iyanu&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goodluck-iyanu&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goodluck-iyanu&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
 </p>
 
 ⸻
 
-🌐 Find Me Online
+🌐 Connect With Me
 
 <p align="center">
-  <a href="https://goodluckiyanu.com">Personal Website</a> •
+  <a href="https://goodluckiyanu.com">Website</a> •
   <a href="https://github.com/goodluck-iyanu">GitHub</a> •
   <a href="https://hoberg.com.ng">Hoberg Digital</a> •
   <a href="https://maji.hoberg.com.ng">Maji Marketplace</a> •
   <a href="https://fiverr.com/goodluckiyanu">Fiverr</a>
 </p>
 
-You can also find me on social media as @goodluckiyanu.
-
-For professional enquiries, freelance opportunities, partnerships, and collaborations, contact me by email.
+You can also find me across social media as @goodluckiyanu.
 
 📧 Email: gerbiecater@gmail.com
 
@@ -162,13 +142,13 @@ For professional enquiries, freelance opportunities, partnerships, and collabora
 
 💬 Let’s Build Something Useful
 
-I’m interested in working with people who have ideas, solve real problems, and want to turn useful concepts into working products.
+I’m open to connecting with developers, founders, businesses, and people who want to turn good ideas into useful products.
 
-Whether you’re looking for a developer, exploring a collaboration, discussing a product idea, or interested in what I’m building at Hoberg Digital, feel free to reach out.
+Whether you’re looking for a developer, exploring a partnership, discussing a product idea, or interested in what I’m building at Hoberg Digital, feel free to reach out.
 
-I’m building for the long term — one product, one improvement, and one problem solved at a time.
+Building for the long term — one product, one improvement, and one problem solved at a time.
 
 <p align="center">
   <strong>Goodluck Iyanu</strong><br/>
-  Founder • Developer • Entrepreneur • Digital Product Builder
+  Founder · Developer · Entrepreneur · Digital Product Builder
 </p>
